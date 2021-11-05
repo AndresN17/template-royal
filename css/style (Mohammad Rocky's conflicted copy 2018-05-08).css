@@ -41,7 +41,7 @@ Table of Content:
 /*font Variables*/
 /*Color Variables*/
 /*=================== fonts ====================*/
-@import url("https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700");
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap');
 .col-md-offset-right-1, .col-lg-offset-right-1 {
   margin-right: 8.33333333%;
 }
@@ -85,7 +85,7 @@ a:hover, a:focus {
 body {
   line-height: 24px;
   font-size: 14px;
-  font-family: "Poppins", sans-serif;
+  font-family: "Ubuntu", sans-serif;
   font-weight: 300;
   color: #777777;
 }
@@ -95,7 +95,7 @@ section {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Poppins", sans-serif;
+  font-family: "Ubuntu", sans-serif;
   font-weight: 600;
 }
 
@@ -187,7 +187,7 @@ button:focus {
   line-height: 40px;
   font-size: 14px;
   color: #222222;
-  font-family: "Poppins", sans-serif;
+  font-family: "Ubuntu", sans-serif;
   font-weight: 500;
 }
 
@@ -338,7 +338,7 @@ button:focus {
 }
 
 .navbar .menu_nav .nav-item .nav-link {
-  font: 500 12px/80px "Poppins", sans-serif;
+  font: 500 12px/80px "Ubuntu", sans-serif;
   color: #222222;
   text-transform: uppercase;
   padding: 0px;
@@ -693,7 +693,7 @@ button:focus {
   line-height: 66px;
   font-weight: bold;
   color: #fff;
-  font-family: "Poppins", sans-serif;
+  font-family: "Ubuntu", sans-serif;
 }
 
 .blog_banner .banner_content p {
@@ -1038,7 +1038,7 @@ button:focus {
 }
 
 .blog_info .post_tag a {
-  font: 300 14px/21px "Poppins", sans-serif;
+  font: 300 14px/21px "Ubuntu", sans-serif;
   color: #222222;
 }
 
@@ -1047,7 +1047,7 @@ button:focus {
 }
 
 .blog_info .blog_meta li a {
-  font: 300 14px/20px "Poppins", sans-serif;
+  font: 300 14px/20px "Ubuntu", sans-serif;
   color: #777777;
   vertical-align: middle;
   padding-bottom: 12px;
@@ -1806,7 +1806,7 @@ button:focus {
   line-height: 26px;
   color: #999;
   border: 1px solid #eeeeee;
-  font-family: "Poppins", sans-serif;
+  font-family: "Ubuntu", sans-serif;
   border-radius: 0px;
   padding-left: 20px;
 }
