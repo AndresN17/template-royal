@@ -110,7 +110,7 @@ button:focus {
 }
 
 .section_gap {
-  padding: 120px 0;
+  padding: 75px 0;
 }
 
 .d_flex {
@@ -870,6 +870,7 @@ button:focus {
 
 .about_content p {
   padding: 18px 0px 30px;
+  text-align: justify;
 }
 
 /*=========== End about_history_area css =============*/
