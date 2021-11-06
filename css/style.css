@@ -984,6 +984,9 @@ button:focus {
 /*================= latest_blog_area css =============*/
 .single-recent-blog-post {
   margin-bottom: 30px;
+  padding: 1rem;
+  border-radius: 5px;
+  box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
 }
 
 .single-recent-blog-post .thumb {
@@ -1036,7 +1039,7 @@ button:focus {
 }
 
 .tags .tag_btn:before {
-  background: #f3c300;
+  background: #0054b5;
 }
 
 .tags .tag_btn + .tag_btn {
